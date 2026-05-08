@@ -4,4 +4,27 @@
     margin: 0;
 }
 
-/* write all your rules below */
+.heading{
+    border: 5px solid red;
+    background-color: pink;
+  
+}
+
+.box-1{
+    width: 100vw;
+    background-color:aqua;
+    height: 10vh;
+
+}
+
+.box-2{
+    width:50vw;
+    height:15vh;
+    border: pink solid 5px;
+    background: rgb(255, 255, 136);
+
+}
+
+.p1{
+    color:blue:
+}
